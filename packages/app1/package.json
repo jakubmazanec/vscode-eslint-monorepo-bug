@@ -1,0 +1,16 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "App #1",
+  "license": "MIT",
+  "author": "Jakub Mazanec <jakub@mazanec.dev>",
+  "sideEffects": false,
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.13.0"
+  }
+}

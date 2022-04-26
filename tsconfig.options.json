@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "esModuleInterop": true,
+    "exactOptionalPropertyTypes": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "lib": ["DOM", "DOM.Iterable", "ES2021"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitOverride": true,
+    "noImplicitReturns": true,
+    "noUncheckedIndexedAccess": true,
+    "strict": true,
+    "target": "ES2021"
+  }
+}
